@@ -1,0 +1,8 @@
+# Get the default profile for the users-service
+GET http://localhost:8888/users-service/default
+Accept: application/json
+
+###
+# Get the default profile for the account-mgnt-service
+GET http://localhost:8888/account-mgnt-service/default
+Accept: application/json
