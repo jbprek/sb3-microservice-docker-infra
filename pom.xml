@@ -10,6 +10,7 @@
 
     <modules>
         <module>eureka-service</module>
+        <module>config-service</module>
 		<module>users-service</module>
 		<module>account-mgnt-service</module>        
     </modules>
